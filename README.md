@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shedken!
 
 ## 👀 About Me
-I am a Computer Science graduate from Delta State Polytechnic, currently working as a Data Analyst Intern at Quantum Analytics in Lagos. My focus is on enhancing operational efficiency through data analysis and optimization. I have a proven track record of contributing to increased efficiency and proactive decision-making in my roles.
+I am a Computer Science graduate from Delta State Polytechnic, currently working as a Data Analyst at Quantum Analytics in Lagos. My focus is on enhancing operational efficiency through data analysis and optimization. I have a proven track record of contributing to increased efficiency and proactive decision-making in my roles.
 
 ## 🌱 Currently Learning
 I am continually expanding my skills in data analysis, data visualization (Power BI), SQL querying, and more. Learning is a lifelong journey, and I am passionate about staying updated with the latest technologies in the field.
